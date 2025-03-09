@@ -1,0 +1,23 @@
+<div align="center">
+  <img src="https://github.com/wanqing0421/couplingInterfaceAssistant/blob/main/main.png">
+</div>
+
+# 软件简介
+EDEM-Fluent耦合接口编译及调试软件由“仿真小伙”开发，主要功能如下
+* 搭建Fluent UDF编译及调试环境，**【不限制Fluent版本】**
+* 搭建欧拉框架EDEM-Fluent耦合接口编译及调试环境，**【不限制EDEM版本和Fluent版本】**
+* 搭建DPM框架EDEM-Fluent耦合接口编译及调试环境，**【不限制EDEM版本和Fluent版本】**
+
+# 使用说明
+
+使用说明请移步B站：
+
+# 联系我们
+* QQ群：727025028
+* 微信：simboy2022
+* 微信公众号及B站：仿真小伙
+
+# 开发日志：
+* 2025.03.04 发布2025.1版本，进行内测
+* 2025.03.05 发布2025.2版本，修复用户认证连接问题
+* 2025.03.05 发布2025.3版本，修复Visual Studio工程创建文件
