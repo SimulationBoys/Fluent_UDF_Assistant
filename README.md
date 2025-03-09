@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/wanqing0421/couplingInterfaceAssistant/blob/main/main.png">
+  <img src="https://github.com/SimulationBoys/Fluent_UDF_Assistant/blob/main/main.png">
 </div>
 
 # 软件简介
