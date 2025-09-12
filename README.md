@@ -21,3 +21,7 @@ EDEM-Fluent耦合接口编译及调试软件由“仿真小伙”开发，主要
 * 2025.03.04 发布2025.1版本，进行内测
 * 2025.03.05 发布2025.2版本，修复用户认证连接问题
 * 2025.03.05 发布2025.3版本，修复Visual Studio工程创建文件
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SimulationBoys/Fluent_UDF_Assistant&type=Date)](https://www.star-history.com/#SimulationBoys/Fluent_UDF_Assistant&Date)
